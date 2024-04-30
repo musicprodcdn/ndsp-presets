@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuraldsp_fortin_nameless_preset Version="1.0" PresetType="Artist">
+  <Parameter input_gain="0.80033278465270996094" output_gain="0.77703821659088134766"
+             routing="0.00000000000000000000" oversampling="0.00000000000000000000"
+             channel="1.00000000000000000000" pedal_section_bypass="1.00000000000000000000"
+             booster_bypass="0.00000000000000000000" booster="0.50000000000000000000"
+             zuul_bypass="1.00000000000000000000" zuul="0.35025122761726379395"
+             ts_bypass="0.00000000000000000000" tsDrive="0.00000000000000000000"
+             tsTone="0.50000000000000000000" tsVolume="1.00000000000000000000"
+             head_bypass="1.00000000000000000000" gain1="0.70999997854232788086"
+             gain2="0.62999999523162841797" treble="0.62999999523162841797"
+             mid="0.62999999523162841797" bass="0.38999998569488525391" master="0.89999997615814208984"
+             presence="0.40000000596046447754" pull_gain_on="1.00000000000000000000"
+             light_strength="1.00000000000000000000" cabsim_bypass="1.00000000000000000000"
+             cabsim1_enabled="1.00000000000000000000" cabsim1_gain="0.92678868770599365234"
+             cabsim1_micaxis="0.00000000000000000000" cabsim1_micdistance="0.00000000000000000000"
+             cabsim1_pan="0.50000000000000000000" cabsim1_mictype="1.00000000000000000000"
+             cabsim1_phaseinv="0.00000000000000000000" cabsim2_enabled="0.00000000000000000000"
+             cabsim2_gain="0.80865222215652465820" cabsim2_micaxis="0.00000000000000000000"
+             cabsim2_micdistance="0.00000000000000000000" cabsim2_pan="0.50000000000000000000"
+             cabsim2_mictype="0.00000000000000000000" cabsim2_phaseinv="0.00000000000000000000"
+             noiseGate="0.27083334326744079590"/>
+  <Information PresetPath="" IR1FilePath="ImpulseResponses/Dugout/Dugout OR GM12 v1.2.ndspir"
+               panelView="2"/>
+</neuraldsp_fortin_nameless_preset>

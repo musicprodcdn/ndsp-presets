@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuraldsp_fortin_nameless_preset Version="1.0" PresetType="Artist">
+  <Parameter input_gain="0.80033278465270996094" output_gain="0.54409313201904296875"
+             routing="0.00000000000000000000" oversampling="0.00000000000000000000"
+             channel="1.00000000000000000000" pedal_section_bypass="1.00000000000000000000"
+             booster_bypass="0.00000000000000000000" booster="0.50911939144134521484"
+             zuul_bypass="1.00000000000000000000" zuul="0.27637538313865661621"
+             ts_bypass="1.00000000000000000000" tsDrive="0.00000000000000000000"
+             tsTone="0.42567270994186401367" tsVolume="1.00000000000000000000"
+             head_bypass="1.00000000000000000000" gain1="0.56999999284744262695"
+             gain2="0.82999998331069946289" treble="0.15999999642372131348"
+             mid="0.62000000476837158203" bass="0.18999999761581420898" master="1.00000000000000000000"
+             presence="0.09999999403953552246" pull_gain_on="1.00000000000000000000"
+             light_strength="1.00000000000000000000" cabsim_bypass="1.00000000000000000000"
+             cabsim1_enabled="1.00000000000000000000" cabsim1_gain="0.80033278465270996094"
+             cabsim1_micaxis="0.12000000476837158203" cabsim1_micdistance="0.00000000000000000000"
+             cabsim1_pan="0.50000000000000000000" cabsim1_mictype="0.50000000000000000000"
+             cabsim1_phaseinv="0.00000000000000000000" cabsim2_enabled="1.00000000000000000000"
+             cabsim2_gain="0.70049917697906494141" cabsim2_micaxis="0.22999998927116394043"
+             cabsim2_micdistance="0.01999999955296516418" cabsim2_pan="0.50000000000000000000"
+             cabsim2_mictype="0.83333331346511840820" cabsim2_phaseinv="0.00000000000000000000"
+             noiseGate="0.30625000596046447754"/>
+  <Information PresetPath="" panelView="2"/>
+</neuraldsp_fortin_nameless_preset>
